@@ -8,13 +8,14 @@ This system includes the following functionalities:
 
 1. **Login/Logout:**  
    Allows users to log in or log out of the system, ensuring secure access to the shopping cart.
+   
 
-2. **Display Menu:**  
+3. **Display Menu:**  
    Displays the available options in the online shopping system.
 
 
 
-3. **Add/Remove Item:**
+4. **Add/Remove Item:**
    Users can add or remove items from their cart.
 
 5. **Total Goods Available:**  
