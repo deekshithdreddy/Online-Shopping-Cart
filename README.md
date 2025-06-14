@@ -19,6 +19,7 @@ This system includes the following functionalities:
 4. **Add/Remove Item:**
    Users can add or remove items from their cart.
 
+
 5. **Total Goods Available:**  
    Displays the total number of items available for purchase in the store.
 
